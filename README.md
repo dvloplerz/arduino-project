@@ -8,4 +8,9 @@ if you run this on windows. Please head to [rust-lang.org](https://rust-lang.org
 - clone [this project](https://github.com/dvloplerz/arduino-project)
 
 - then use `cargo run` to run this project.
-### If you not fimilar with cargo. then Check this out! [CARGO](https://doc.rust-lang.org/cargo/index.html)
+### If you not familiar with cargo. then Check this out! [CARGO](https://doc.rust-lang.org/cargo/index.html)
+
+# !!! For now. This program is running on arduino [simulator](https://github.com/buserror/simavr) with arduino-uno module.
+
+##### Program Example:
+![Cargo example](./assets/example.png)
